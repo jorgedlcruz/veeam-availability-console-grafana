@@ -8,7 +8,7 @@
 ##	
 ##      .Notes
 ##      NAME:  veeam-availability-console-script.sh
-##      ORIGINAL NAME: veeam_office365.sh
+##      ORIGINAL NAME: veeam_availability-console-grafana.sh
 ##      LASTEDIT: 22/12/2018
 ##      VERSION: 0.1
 ##      KEYWORDS: Veeam, InfluxDB, Grafana
